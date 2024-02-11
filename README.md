@@ -1,4 +1,5 @@
 Opis
+
 Aplikacja napisana w języku Python, umożliwiająca użytkownikom tworzenie planu poprzez pobieranie informacji o przedmiotach z podanego linku z usługi USOS. Aplikacja jest w fazie beta, co oznacza, że jest w trakcie rozwoju i może zawierać pewne niedociągnięcia. Zachęcamy do zgłaszania błędów oraz wprowadzania poprawek, aby wspólnie uczynić ją lepszą! 😊
 
 Wymagane Biblioteki
